@@ -1,7 +1,7 @@
 ## AS300 Cold Shoe/Strain Relief Adapter
 
 <p align="center">
-  <img src="images/main.jpg" width=300 align="center">
+  <img src="images/main.jpg" width=500 align="center">
 </p>
 
 ### About this print
