@@ -11,7 +11,7 @@ repository follow the `Creative Commons Zero v1.0 Universal` license, aka public
 
 Do you have a suggestion on how to make a print better? Since suggesting changes to prints is not exactly a reasonable thing to do with PRs, feel free to open a new Issue and describe your suggested changes.
 
-## IRLTK Socials
+## IRLTookit Links
 
 - https://twitter.com/IRLToolkit
 - https://irltoolkit.com/discord
